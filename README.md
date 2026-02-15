@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Web+Development+Intern;Full+Stack+Developer+in+Progress;Core+Java+%7C+DSA+Learner;Building+Real-World+Projects" />
 </p>
 
-💻 Computer Engineering Student | Web Development Intern  
+💻 Computer Engineering Student | Web Development Intern   
 🚀 Passionate about Full-Stack Development & Problem Solving  
 
 ---
